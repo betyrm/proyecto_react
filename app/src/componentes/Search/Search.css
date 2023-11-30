@@ -2,7 +2,7 @@
 .seccion_buscador{
     align-items: center;
     width: 100%;
-    margin-top: 80px;
+    margin-top: 60px;
   	display: flex;
 	justify-content: center;
 }
@@ -12,7 +12,7 @@ input{
     padding: 8px 15px;
     height: 1.5rem;
 	border: 2px solid black;
-	
+
 	width: 400px;
 }
 
