@@ -20,7 +20,7 @@ const Search = ({ filter, setFilter }) => {
 						value={filter}
 						
 					/>
-					<button type="submit">Buscar</button>
+					{/* <button type="submit">Buscar</button> */}
 				</div>
 
 				<hr />

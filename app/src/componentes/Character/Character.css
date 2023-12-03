@@ -1,18 +1,13 @@
-.lista-personajes {
-	width: 100%;
-	display: grid;
-	grid-template: auto / 1fr;
-	gap: 4rem;
-}
+/* 
 
 .personaje {
-	background: var(--color-secondary);
+	background: gray;
 	border-radius: 0.3rem;
 	box-shadow: 0 0 1rem 0 rgba(255, 255, 255, 0.1);
 	display: grid;
 	grid-template: 10rem auto / 1fr;
 	overflow: hidden;
-	/* animation: showCard 0.5s linear; */
+	animation: showCard 0.5s linear;
 }
 
 .personaje-header {
@@ -63,10 +58,10 @@
 	height: 3rem;
 	line-height: 3rem;
 	text-align: center;
-	/* transition-property: background, color; */
+	transition-property: background, color; 
 	font-size: 1.8rem;
 }
-.personaje-body p {
+/* .personaje-body p {
 	width: 100%;
 	background: rgba(219, 246, 233, 0.9);
 	color: var(--color-dark);
@@ -78,4 +73,4 @@
 }
 .personaje-body p span {
 	font-weight: bold;
-}
+} */ 
